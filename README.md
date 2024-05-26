@@ -41,13 +41,13 @@
 国外：
 
 ```bash
-curl -O https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.sh
+curl -O https://raw.githubusercontent.com/0heartland0/reinstall/main/reinstall.sh
 ```
 
 国内：
 
 ```bash
-curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.sh
+curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/0heartland0/reinstall/main/reinstall.sh
 ```
 
 ## 下载（当前系统是 Windows）
@@ -59,13 +59,13 @@ curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/wgetnz/rein
 国外：
 
 ```batch
-certutil -urlcache -f -split https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.bat
+certutil -urlcache -f -split https://raw.githubusercontent.com/0heartland0/reinstall/main/reinstall.bat
 ```
 
 国内：
 
 ```batch
-certutil -urlcache -f -split https://mirror.ghproxy.com/https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.bat
+certutil -urlcache -f -split https://mirror.ghproxy.com/https://raw.githubusercontent.com/0heartland0/reinstall/main/reinstall.bat
 ```
 
 ## 使用
@@ -229,13 +229,13 @@ Windows Server 2022 SERVERDATACENTER
 
 4. 手动下载，通过 `远程桌面` 复制这两个文件
 
-   <https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.bat>
+   <https://raw.githubusercontent.com/0heartland0/reinstall/main/reinstall.bat>
 
-   <https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.sh>
+   <https://raw.githubusercontent.com/0heartland0/reinstall/main/reinstall.sh>
 
 ## 感谢
 
 感谢以下商家提供白嫖机器
 
-[![Oracle Cloud](https://github.com/wgetnz/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
-[![DartNode](https://github.com/wgetnz/reinstall/assets/7548515/435d6740-bcdd-4f3a-a196-2f60ae397f17)](https://dartnode.com/)
+[![Oracle Cloud](https://github.com/0heartland0/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
+[![DartNode](https://github.com/0heartland0/reinstall/assets/7548515/435d6740-bcdd-4f3a-a196-2f60ae397f17)](https://dartnode.com/)
